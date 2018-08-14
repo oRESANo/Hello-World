@@ -1,5 +1,5 @@
 # Hello-World
 
 ---
-## _it's just a start_
+it's just a start
 ---
